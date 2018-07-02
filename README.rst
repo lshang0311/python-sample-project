@@ -5,6 +5,8 @@ Sample Project
 
 Modified from `this repository <https://github.com/kennethreitz/samplemod>`_.
 
+Also see `project template <https://pypi.org/project/python-project-template/>`_.
+and `cookiecutter <https://www.pydanny.com/cookie-project-templates-made-easy.html>`_.
 
 ---------------
 
