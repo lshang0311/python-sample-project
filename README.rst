@@ -34,7 +34,7 @@ Usage:
     or
     make init
 
-4) Test:
+4) Test
     py.test tests
 
     or
