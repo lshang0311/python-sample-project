@@ -1,7 +1,11 @@
 Sample Module Repository
 ========================
 
-Modified from `this repository <https://github.com/kennethreitz/setup.py>`_.
+---------------
+
+Modified from `this repository <https://github.com/kennethreitz/samplemod>`_.
+
+
 ---------------
 
 This simple project is an example repo for Python projects.
