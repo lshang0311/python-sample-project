@@ -20,6 +20,8 @@ If you want to learn more about ``setup.py`` files, check out `this repository <
 
 ---------------
 
+Usage:
+
 1) Clone
 
 git clone https://github.com/lshang0311/python-sample-project.git
