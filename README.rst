@@ -26,7 +26,7 @@ Usage:
     git clone https://github.com/lshang0311/python-sample-project.git
 
 2) Boot
-make boot
+    make boot
 
 3) Init
     pip install -r requirements.txt
