@@ -21,15 +21,18 @@ If you want to learn more about ``setup.py`` files, check out `this repository <
 ---------------
 
 1) Clone
+
 git clone https://github.com/lshang0311/python-sample-project.git
 
 2) Init
+
 pip install -r requirements.txt
 
 or
 make init
 
 3) Test:
+
 py.test tests
 
 or
