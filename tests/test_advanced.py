@@ -11,6 +11,9 @@ class AdvancedTestSuite(unittest.TestCase):
     def test_thoughts(self):
         self.assertIsNone(sample.hmm())
 
+    def test_sum(self):
+        self.assertEqual(sample.simple_sum(1, 2), 3)
+
 
 if __name__ == '__main__':
     unittest.main()
